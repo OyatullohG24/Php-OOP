@@ -4,7 +4,7 @@
 // Agar siz __construct() funksiyasini yaratsangiz, sinfdan obyekt yaratganingizda PHP avtomatik ravishda bu funksiyani chaqiradi.
 // Konstruksiya funktsiyasi ikkita pastki chiziq bilan boshlanadi (__)
 // Quyidagi misolda konstruktordan foydalanish bizni kod miqdorini kamaytiradigan set_name() usulini chaqirishdan qutqarishini ko'ramiz.
-class Car
+class Constructor
 {
      public $name;
      public $color;
