@@ -50,11 +50,12 @@ class  Fruit
 
 }
 
-$apple = new Fruit();
-$apple->setName('Apple');
-$apple->setColor('Red');
-$apple->setTaste('Sweet');
+//$apple = new Fruit();
+//$apple->setName('Apple');
+//$apple->setColor('Red');
+//$apple->setTaste('Sweet');
+//
+//print "Name: ". $apple->getName(). PHP_EOL;
+//print "Color: ". $apple->getColor(). PHP_EOL ;
+//print "Taste: ". $apple->getTaste();
 
-print "Name: ". $apple->getName(). PHP_EOL;
-print "Color: ". $apple->getColor(). PHP_EOL ;
-print "Taste: ". $apple->getTaste();

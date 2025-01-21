@@ -1,5 +1,6 @@
 <?php
 
+
 class Audi
 {
      public $name;
@@ -19,5 +20,5 @@ class Audi
 }
 
 $audi = new Audi('Audi Q9', 'Dizel');
-echo $audi->getName(). PHP_EOL ;
+echo $audi->getName() . PHP_EOL;
 echo $audi->getFuel();
